@@ -3,7 +3,7 @@ import Panel from '@/components/Panel.vue'
 
 import { ref } from 'vue'
 
-const msg = ref('Hello world111222')
+const msg = ref('Hello world test')
 </script>
 
 <template>
